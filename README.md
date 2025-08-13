@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/majumderdibyo" target="blank"><img src="https://img.shields.io/twitter/follow/majumderdibyo?logo=twitter&style=for-the-badge" alt="majumderdibyo" /></a> </p>
 
-- 🔭 Currently BUIDLing [TURF.GG](https://turf.gg)
+- 🔭 Currently BUIDLing [TURF](https://turf.network)
 
 - 📝 I write here [https://dibyomajumder.substack.com/](https://dibyomajumder.substack.com/)
 
