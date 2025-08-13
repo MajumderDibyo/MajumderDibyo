@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Web3, Product Analysis, Token Economies**
 
-- 📫 How to reach me **dibyomajumder@gmail.com**
+- 📫 How to reach me **dibyomajumder23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
