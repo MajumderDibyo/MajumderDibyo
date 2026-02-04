@@ -30,6 +30,8 @@ Hands‑on systems learning by building and benchmarking:
   Repo: https://github.com/Turf-Tech/lcp-spec
 - **Context Engineering.** The mechanisms and policies that govern how state, knowledge, and feedback are materialized into an agent’s context at each execution step.
   Repo: https://github.com/langchain-ai/context_engineering
+- **ERC-8004: Trustless Agents (watch/contribute).** Discover agents and establish trust through reputation and validation
+  EIP Reference: https://eips.ethereum.org/EIPS/eip-8004
 - **x402 Facilitator (custom deployment).** Aan intermediary component that negotiates, validates, and settles HTTP 402–based payment flows between agents and services during request execution. 
   Repo: https://github.com/Turf-Tech/x402-rs
 
