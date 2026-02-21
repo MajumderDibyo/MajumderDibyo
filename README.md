@@ -1,4 +1,4 @@
-# Dibyo Majumder ⟠ - data/acc
+# Dibyo Majumder - ⟠ /acc
 
 ```sh
 $ echo "Hello, Agents!"
